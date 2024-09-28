@@ -6,17 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
-          href=""
+          href="alexdoesvoices.xyz"
           target="_blank"
           rel="noopener noreferrer"
         >
-          What about if I 
+          Link to Alexdoesvoices.xyz 
         </a>
+        <p>This is the future react website for Alexdoesvoices </p>
       </header>
     </div>
   );
