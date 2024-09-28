@@ -14,7 +14,7 @@ function App() {
         >
           Link to Alexdoesvoices.xyz 
         </a>
-        <p>This is the future react website for Alexdoesvoices </p>
+        <p>This is the future react website for Alexdoesvoices. </p>
       </header>
     </div>
   );
