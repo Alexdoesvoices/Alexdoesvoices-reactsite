@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="alexdoesvoices.xyz"
+          href="https://alexdoesvoices.xyz/"
           target="_blank"
           rel="noopener noreferrer"
         >
