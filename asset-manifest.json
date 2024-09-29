@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/Alexdoesvoices-reactsite/static/css/main.5ba17193.css",
-    "main.js": "/Alexdoesvoices-reactsite/static/js/main.d415751c.js",
+    "main.css": "/Alexdoesvoices-reactsite/static/css/main.3c743fef.css",
+    "main.js": "/Alexdoesvoices-reactsite/static/js/main.a32922a5.js",
     "static/js/453.00ebe890.chunk.js": "/Alexdoesvoices-reactsite/static/js/453.00ebe890.chunk.js",
-    "static/media/Me.png": "/Alexdoesvoices-reactsite/static/media/Me.57f9fdf8984307f91f2c.png",
-    "static/media/logo.svg": "/Alexdoesvoices-reactsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Alexdoesvoices-reactsite/index.html",
-    "main.5ba17193.css.map": "/Alexdoesvoices-reactsite/static/css/main.5ba17193.css.map",
-    "main.d415751c.js.map": "/Alexdoesvoices-reactsite/static/js/main.d415751c.js.map",
+    "main.3c743fef.css.map": "/Alexdoesvoices-reactsite/static/css/main.3c743fef.css.map",
+    "main.a32922a5.js.map": "/Alexdoesvoices-reactsite/static/js/main.a32922a5.js.map",
     "453.00ebe890.chunk.js.map": "/Alexdoesvoices-reactsite/static/js/453.00ebe890.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ba17193.css",
-    "static/js/main.d415751c.js"
+    "static/css/main.3c743fef.css",
+    "static/js/main.a32922a5.js"
   ]
 }
