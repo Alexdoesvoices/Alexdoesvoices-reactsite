@@ -1,0 +1,7 @@
+/* home.css */
+.app-wrapper_equipment {
+    background-color: beige; /* Change this to your desired color */
+    min-height: 100vh; /* E1nsure it covers the full height of the viewport */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+}

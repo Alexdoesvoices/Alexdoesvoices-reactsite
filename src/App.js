@@ -1,24 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
-import myface from './Me.png';
-
+import React from "react";
+import Navbar from "./components/Navbar";
+import {
+    BrowserRouter as Router,
+    Routes,
+    Route,
+} from "react-router-dom";
+import Home from "./pages";
+import About from "./pages/about";
+import Blogs from "./pages/blogs";
+import SignUp from "./pages/signup";
+// import Gear from "./pages/gear";
+import Equipments from "./pages/equipments";
+ 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={myface} className="App-logo" alt="logo" />
-        <a
-          className="App-link"
-          href="https://alexdoesvoices.xyz/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Link to Alexdoesvoices.xyz 
-        </a>
-        <p>This is the future react website for Alexdoesvoices. </p>
-      </header>
-    </div>
-  );
+    return (
+        <Router>
+            <Navbar />
+            <Routes>
+                <Route exact path="/" element={<Home />} />
+                <Route path="/about" element={<About />} />
+                {/* <Route
+                    path="/gear"
+                    element={<Gear />}
+                /> */}
+                <Route path="/blogs" element={<Blogs />} />
+                <Route
+                    path="/sign-up"
+                    element={<SignUp />}
+                />
+                <Route
+                    path="/equipments"
+                    element={<Equipments />}
+                />
+            </Routes>
+        </Router>
+    );
 }
-
+ 
 export default App;
