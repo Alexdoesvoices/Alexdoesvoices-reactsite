@@ -9,7 +9,7 @@ const Navbar = () => {
         <>
             <Nav>
                 <NavMenu>
-                <NavLink to="/" activeStyle>
+                <NavLink to="/Alexdoesvoices-reactsite" activeStyle>
                 Home
                 </NavLink>
                     <NavLink to="/About" activeStyle>

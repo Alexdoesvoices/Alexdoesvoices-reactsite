@@ -17,7 +17,8 @@ function App() {
         <Router>
             <Navbar />
             <Routes>
-                <Route exact path="/" element={<Home />} />
+                <Route path="*"/>
+                <Route exact path="/Alexdoesvoices-reactsite" element={<Home />} />
                 <Route path="/about" element={<About />} />
                 {/* <Route
                     path="/gear"
