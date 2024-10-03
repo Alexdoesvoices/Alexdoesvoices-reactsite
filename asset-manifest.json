@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Alexdoesvoices-reactsite/static/css/main.e86c88f8.css",
-    "main.js": "/Alexdoesvoices-reactsite/static/js/main.f2ef3508.js",
+    "main.css": "/Alexdoesvoices-reactsite/static/css/main.b2d89a8c.css",
+    "main.js": "/Alexdoesvoices-reactsite/static/js/main.1517be9d.js",
     "static/js/453.00ebe890.chunk.js": "/Alexdoesvoices-reactsite/static/js/453.00ebe890.chunk.js",
     "static/media/Me.png": "/Alexdoesvoices-reactsite/static/media/Me.57f9fdf8984307f91f2c.png",
     "index.html": "/Alexdoesvoices-reactsite/index.html",
-    "main.e86c88f8.css.map": "/Alexdoesvoices-reactsite/static/css/main.e86c88f8.css.map",
-    "main.f2ef3508.js.map": "/Alexdoesvoices-reactsite/static/js/main.f2ef3508.js.map",
+    "main.b2d89a8c.css.map": "/Alexdoesvoices-reactsite/static/css/main.b2d89a8c.css.map",
+    "main.1517be9d.js.map": "/Alexdoesvoices-reactsite/static/js/main.1517be9d.js.map",
     "453.00ebe890.chunk.js.map": "/Alexdoesvoices-reactsite/static/js/453.00ebe890.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e86c88f8.css",
-    "static/js/main.f2ef3508.js"
+    "static/css/main.b2d89a8c.css",
+    "static/js/main.1517be9d.js"
   ]
 }
