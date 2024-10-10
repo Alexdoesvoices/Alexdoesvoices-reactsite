@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Alexdoesvoices-reactsite/static/css/main.4f6394df.css",
-    "main.js": "/Alexdoesvoices-reactsite/static/js/main.4aad6736.js",
+    "main.js": "/Alexdoesvoices-reactsite/static/js/main.a00cf24c.js",
     "static/js/453.00ebe890.chunk.js": "/Alexdoesvoices-reactsite/static/js/453.00ebe890.chunk.js",
     "static/media/Me.png": "/Alexdoesvoices-reactsite/static/media/Me.57f9fdf8984307f91f2c.png",
     "index.html": "/Alexdoesvoices-reactsite/index.html",
     "main.4f6394df.css.map": "/Alexdoesvoices-reactsite/static/css/main.4f6394df.css.map",
-    "main.4aad6736.js.map": "/Alexdoesvoices-reactsite/static/js/main.4aad6736.js.map",
+    "main.a00cf24c.js.map": "/Alexdoesvoices-reactsite/static/js/main.a00cf24c.js.map",
     "453.00ebe890.chunk.js.map": "/Alexdoesvoices-reactsite/static/js/453.00ebe890.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f6394df.css",
-    "static/js/main.4aad6736.js"
+    "static/js/main.a00cf24c.js"
   ]
 }
