@@ -3,13 +3,15 @@
  
 import React from "react";
 import { Nav, NavLink, NavMenu } from "./NavbarElements";
- 
+
+
+
 const Navbar = () => {
     return (
         <>
             <Nav>
                 <NavMenu>
-                <NavLink to="/Alexdoesvoices-reactsite" activeStyle>
+                <NavLink to="/" activeStyle>
                 Home
                 </NavLink>
                     <NavLink to="/About" activeStyle>
@@ -18,12 +20,12 @@ const Navbar = () => {
                     {/* <NavLink to="/gear" activeStyle>
                         gear */}
                     {/* </NavLink> */}
-                    <NavLink to="/blogs" activeStyle>
+                    {/* <NavLink to="/blogs" activeStyle>
                         Blogs
-                    </NavLink>
-                    <NavLink to="/sign-up" activeStyle>
+                    </NavLink> */}
+                    {/* <NavLink to="/sign-up" activeStyle>
                         Sign Up
-                    </NavLink>
+                    </NavLink> */}
                     <NavLink to="/Equipments" activeStyle>
                         Equipment
                     </NavLink>

@@ -1,0 +1,17 @@
+/* home.css */
+
+.app-wrapper {
+    background-color:#1c1c1c ; /* Change this to your desired color */
+    min-height: 100dvb; /* Ensure it covers the full height of the viewport */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+    /* background-image: url(/src/Me.png); */
+    background-size:  cover;
+    
+}
+
+.center_text {
+    text-align: center;
+    color: white;
+}
+  
